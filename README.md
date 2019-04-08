@@ -4,6 +4,6 @@
 
 **WARNING - WORK IN PROGRESS**
 
-This assignment was implemented as a university project for the course of *Geometric Deep Learning* at Università della Svizzera Italiana.
+This project was implemented as a university assignment for the course of *Geometric Deep Learning* at Università della Svizzera Italiana.
 
-Implemenation of MoNet (mixture model CNN) and GAT (Graph Attention Network) tested on MNIST and Cora datasets.
+Implemenation of MoNet (mixture model CNN) and GAT (Graph Attention Network) tested on MNIST and Cora datasets using Tensorflow.
